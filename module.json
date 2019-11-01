@@ -1,0 +1,24 @@
+{
+    "name": "de-DE",
+    "title": "FoundryVTT - de-DE",
+    "description": "Fügt die Sprache Deutsch (DEUTSCHLAND) zu FoundryVTT hinzu",
+    "version": "0.3.9.1",
+    "author": "lutece",
+    
+    "scripts": [],
+    "styles": [],
+    "packs": [],
+    
+    "languages": [
+      {
+        "lang": "de",
+        "name": "Deutsch (DEUTSCHLAND)",
+        "path": "de.json"
+      }
+    ],
+    
+    "url": "https://raw.githubusercontent.com/lutece13/pocket/master",
+	  "manifest": "https://raw.githubusercontent.com/lutece13/pocket/master/module.json",
+	  "download": "https://gitlab.com/baktov.sugar/foundryvtt-lang-fr-fr/-/jobs/artifacts/master/raw/fr-FR.zip?job=build"
+  }
+  
