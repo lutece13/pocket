@@ -1,0 +1,24 @@
+{
+    "name": "fr-FR",
+    "title": "FoundryVTT - fr-FR",
+    "description": "Add French (FRANCE) language to FoundryVTT",
+    "version": "0.3.9.1",
+    "author": "DrEygon, Rwanoux, Baktov, DamonReborn(Naoki)",
+    
+    "scripts": [],
+    "styles": [],
+    "packs": [],
+    
+    "languages": [
+      {
+        "lang": "fr",
+        "name": "French (FRANCE)",
+        "path": "fr.json"
+      }
+    ],
+    
+    "url": "https://gitlab.com/baktov.sugar/foundryvtt-lang-fr-fr",
+	  "manifest": "https://gitlab.com/baktov.sugar/foundryvtt-lang-fr-fr/raw/master/fr-FR/module.json",
+	  "download": "https://gitlab.com/baktov.sugar/foundryvtt-lang-fr-fr/-/jobs/artifacts/master/raw/fr-FR.zip?job=build"
+  }
+  
